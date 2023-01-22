@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CinemaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-22T06:15:29" hostname="EDCMXTALT0991.local" time="7.629">
+  <properties/>
+  <testcase name="start" classname="CinemaTests" time="7.629"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+?[0;34m
+?[0m?[0;34m  .   ____          _            __ _ _
+?[0m?[0;34m /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+?[0m?[0;34m( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+?[0m?[0;34m \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+?[0m?[0;34m  '  |____| .__|_| |_|_| |_\__, | / / / /
+?[0m?[0;34m =========|_|==============|___/=/_/_/_/
+?[0m?[0;34m :: Spring Boot ::                (v2.5.6)
+?[0m?[0;34m
+?[0m?[0;34m2023-01-21 23:15:34.762  INFO 55725 --- [    Test worker] cinema.Main                              : Starting Main using Java 17.0.5 on EDCMXTALT0991.local with PID 55725 (started by jesusmurguia in /Users/jesusmurguia/Downloads/Cinema Room REST Service/Cinema Room REST Service/task)
+?[0m?[0;34m2023-01-21 23:15:34.765  INFO 55725 --- [    Test worker] cinema.Main                              : No active profile set, falling back to default profiles: default
+?[0m?[0;34m2023-01-21 23:15:35.732  INFO 55725 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 28852 (http)
+?[0m?[0;34m2023-01-21 23:15:35.741  INFO 55725 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+?[0m?[0;34m2023-01-21 23:15:35.741  INFO 55725 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+?[0m?[0;34m2023-01-21 23:15:35.811  INFO 55725 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+?[0m?[0;34m2023-01-21 23:15:35.811  INFO 55725 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1007 ms
+?[0m?[0;34m2023-01-21 23:15:36.296  INFO 55725 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+?[0m?[0;34m2023-01-21 23:15:36.325  INFO 55725 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 28852 (http) with context path ''
+?[0m?[0;34m2023-01-21 23:15:36.338  INFO 55725 --- [    Test worker] cinema.Main                              : Started Main in 6.88 seconds (JVM running for 7.626)
+?[0;34m2023-01-21 23:15:36.624  INFO 55725 --- [io-28852-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+?[0m?[0;34m2023-01-21 23:15:36.625  INFO 55725 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+?[0m?[0;34m2023-01-21 23:15:36.627  INFO 55725 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+?[0m?[1;31m
+Start test 2?[0m
+?[1;31m
+Start test 3?[0m
+?[1;31m
+Start test 4?[0m
+?[1;31m
+Start test 5?[0m
+?[1;31m
+Start test 6?[0m
+?[1;31m
+Start test 7?[0m
+?[1;31m
+Start test 8?[0m
+?[1;31m
+Start test 9?[0m
+?[1;31m
+Start test 10?[0m
+?[1;31m
+Start test 11?[0m
+?[1;31m
+Start test 12?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
